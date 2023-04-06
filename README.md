@@ -2,9 +2,9 @@
 
 - Install a local server: To run a PHP project on your local environment, you need to install a local server like XAMPP, WAMP, or MAMP. These local servers come with pre-installed software like Apache, MySQL, and PHP. You can download and install any of these local servers from their official websites.
 
-- Install PHP 7.4: Once you have installed a local server, you need to make sure that PHP 7.4 is installed. Most of the latest versions of the local servers come with PHP 7.4 pre-installed. However, if you don't have PHP 7.4, you can download and install it from the official PHP website.
+- Install PHP 7.4: Once you have installed a local server, you need to make sure that PHP 7.4 is installed. Most of the latest versions of the local servers come with PHP 7.4 pre-installed. However, if you don't have PHP 7.4, you can download and install it from the official [PHP website](https://www.php.net/releases/).
 
-- Install MySQL 5.x: You also need to make sure that MySQL 5.x is installed on your local environment. If you have installed a local server like XAMPP, WAMP, or MAMP, then MySQL 5.x should already be installed. However, if you don't have MySQL 5.x, you can download and install it from the official MySQL website.
+- Install MySQL 5.x: You also need to make sure that MySQL 5.x is installed on your local environment. If you have installed a local server like XAMPP, WAMP, or MAMP, then MySQL 5.x should already be installed. However, if you don't have MySQL 5.x, you can download and install it from the official [MySQL website](https://www.mysql.com/downloads/).
 
 - Import the database: After installing MySQL, you need to import the database for your project. You can do this by using a tool like phpMyAdmin, which comes with most local servers. Open phpMyAdmin, import the database using sql/mailerlite_subscriber.sql.
 
